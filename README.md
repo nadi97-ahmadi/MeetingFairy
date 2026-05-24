@@ -113,7 +113,7 @@ Future versions of Meeting Fairy may include AI-powered meeting summaries, multi
 
 ---
 
-## ❤️ About
+## About
 
 Meeting Fairy was created as a fun and aesthetic productivity tool to make calendar reminders more engaging, visual, and enjoyable instead of boring system alerts.
 
